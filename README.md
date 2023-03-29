@@ -21,4 +21,4 @@ Este ejercicio se realizó buscando lograr dos cosas:
 ## Aqui algunas imágenes del resultado final:
 
 #### Terminado
-![](./assets/final.png)
+![](./final.png)
